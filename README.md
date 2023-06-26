@@ -1,4 +1,4 @@
-# This is a frontend which enables to predict apparment prices
+# This is a frontend which enables to predict emotions
 
 ## Installation
 

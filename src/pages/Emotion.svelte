@@ -60,7 +60,7 @@
   function predict(data) {
     facesData = []; // Zurücksetzen der Gesichtsdaten
     let url =
-      "https://api-inference.huggingface.co/models/heinjan/TI-mobilenetv3-imagenet-v2";
+      "https://api-inference.huggingface.co/models/heinjan/TI-mobilenetv3-imagenet-v2-v2";
     axios
       .post(
         url,

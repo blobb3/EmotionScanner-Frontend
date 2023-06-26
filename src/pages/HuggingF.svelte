@@ -118,7 +118,7 @@
   });
 </script>
 
-<body>
+<bodey>
   <div class="box">
     <h1 class="title">Emotion Recognition - with hugging face</h1>
 
@@ -169,7 +169,7 @@
       </div>
     </div>
   </div>
-</body>
+</bodey>
 
 <style>
   canvas {

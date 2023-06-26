@@ -90,7 +90,7 @@
     }
 </script>
 
-<body>
+<bodey>
     <div class="box">
         <h1 class="title">Camera shy? Upload a picture alternatively!</h1>
         <p><bold><i>It may take a while, please be patient (warning => inexact version).</i></bold></p>
@@ -126,7 +126,7 @@
     <h1 class="title">Bored while waiting?!</h1>
     <p>This Edureka video on 'Image Classification using CNN' will give you an overview of Image Classification using Machine Learning and will help you understand various important concepts that concern Image Classification with ML: <br><a href="https://youtu.be/ejkRh9obVjk">https://youtu.be/ejkRh9obVjk</a><br></p>
 </div>
-</body>
+</bodey>
 
 <style>
     .box {
