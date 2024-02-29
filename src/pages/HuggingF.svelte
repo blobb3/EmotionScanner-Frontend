@@ -79,7 +79,7 @@
         data, //image data
         {
           headers: {
-            Authorization: "Bearer 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",
+            Authorization: "hugging_face_token",
           },
         }
       )
