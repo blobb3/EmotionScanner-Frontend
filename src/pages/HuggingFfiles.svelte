@@ -57,7 +57,7 @@
                 {
                     headers: {
                         Authorization:
-                            "Bearer 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",
+                            "hugging_face_token",
                     },
                 }
             )
